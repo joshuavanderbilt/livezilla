@@ -42,6 +42,8 @@ grub-customizer
 chntpw
 grub2
 clamav
+efibootmgr
+live-build
 dns323-firmware-tools
 firmware-ath9k-htc
 firmware-linux-free
