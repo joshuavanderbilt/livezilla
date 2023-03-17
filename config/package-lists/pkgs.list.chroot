@@ -44,6 +44,8 @@ grub2
 clamav
 efibootmgr
 live-build
+neofetch
+imagemagick
 dns323-firmware-tools
 firmware-ath9k-htc
 firmware-linux-free
