@@ -11,4 +11,4 @@ Instructions to build:
 You will need a Debian GNU/Linux system, I recommend 11, the latest stable release at the time of writing.
 Install live-build with apt. (sudo apt install live-build)
 
-Clone this repository, and run make in the repo directory.
+Clone this repository or download "source code" from a release, and run make in the repo directory.
