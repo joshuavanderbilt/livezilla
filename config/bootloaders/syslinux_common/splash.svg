@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="splash.svg"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
+   version="1.1"
+   id="svg3320"
+   height="480"
+   width="640">
+  <defs
+     id="defs3322">
+    <linearGradient
+       id="linearGradient5012">
+      <stop
+         style="stop-color:#fdf188;stop-opacity:1;"
+         offset="0"
+         id="stop5014" />
+      <stop
+         style="stop-color:#d3bc00;stop-opacity:1;"
+         offset="1"
+         id="stop5016" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient8543">
+      <stop
+         style="stop-color:#fffef5;stop-opacity:0.94117647;"
+         offset="0"
+         id="stop8545" />
+      <stop
+         style="stop-color:#fce94f;stop-opacity:0;"
+         offset="1"
+         id="stop8547" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient11202">
+      <stop
+         style="stop-color:#c4a000;stop-opacity:1;"
+         offset="0"
+         id="stop11204" />
+      <stop
+         style="stop-color:#c4a000;stop-opacity:0;"
+         offset="1"
+         id="stop11206" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient18284">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop18286" />
+      <stop
+         id="stop20913"
+         offset="0.5"
+         style="stop-color:#000000;stop-opacity:1;" />
+      <stop
+         id="stop19165"
+         offset="1"
+         style="stop-color:#000000;stop-opacity:0;" />
+    </linearGradient>
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 24 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="48 : 24 : 1"
+       inkscape:persp3d-origin="24 : 16 : 1"
+       id="perspective47" />
+  </defs>
+  <sodipodi:namedview
+     inkscape:document-rotation="0"
+     inkscape:window-maximized="1"
+     inkscape:window-y="0"
+     inkscape:window-x="0"
+     inkscape:window-height="1015"
+     inkscape:window-width="1920"
+     showgrid="false"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="px"
+     inkscape:cy="200.44381"
+     inkscape:cx="656.32175"
+     inkscape:zoom="1.0960155"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base" />
+  <metadata
+     id="metadata3325">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(0,-572.3622)"
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <rect
+       y="572.36218"
+       x="0"
+       height="480"
+       width="640"
+       id="rect3328"
+       style="fill:#000000;fill-opacity:1;stroke:none" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none"
+       x="190.68135"
+       y="619.20685"
+       id="text3002"
+       transform="scale(1.0000015)"><tspan
+         id="tspan3041"
+         style="font-style:normal;font-weight:bold;font-size:20px;line-height:1;-inkscape-font-specification:'DejaVu Sans Bold'"
+         sodipodi:role="line"
+         x="190.68135"
+         y="619.20685">Livezilla Rescue Toolkit @ARCHITECTURE@</tspan><tspan
+         id="tspan3037"
+         style="font-style:normal;font-weight:bold;font-size:20px;line-height:1.2;-inkscape-font-specification:'DejaVu Sans Bold'"
+         sodipodi:role="line"
+         x="190.68135"
+         y="641.20685"> </tspan><tspan
+         id="tspan3039"
+         style="font-style:normal;font-weight:bold;font-size:13.3333px;line-height:1.2;-inkscape-font-specification:'DejaVu Sans Bold'"
+         sodipodi:role="line"
+         x="190.68135"
+         y="659.47504">Built: @YEAR@-@MONTH@-@DAY@ @HOUR@:@MINUTE@:@SECOND@ @TIMEZONE@</tspan><tspan
+         id="tspan3098"
+         style="font-style:normal;font-weight:bold;font-size:13.3333px;line-height:1.2;-inkscape-font-specification:'DejaVu Sans Bold'"
+         sodipodi:role="line"
+         x="190.68135"
+         y="675.47504"> </tspan><tspan
+         id="tspan3102"
+         style="font-style:normal;font-weight:normal;font-size:13.3333px;line-height:1.2;-inkscape-font-specification:'DejaVu Sans'"
+         sodipodi:role="line"
+         x="190.68135"
+         y="691.47498">linux: @LINUX_VERSIONS@</tspan><tspan
+         id="tspan3076"
+         style="font-style:normal;font-weight:normal;font-size:13.3333px;line-height:1.2;-inkscape-font-specification:'DejaVu Sans'"
+         sodipodi:role="line"
+         x="190.68135"
+         y="707.47491">live-build: @LIVE_BUILD_VERSION@</tspan><tspan
+         id="tspan3068"
+         style="font-style:normal;font-weight:normal;font-size:13.3333px;line-height:1.2;-inkscape-font-specification:'DejaVu Sans'"
+         sodipodi:role="line"
+         x="190.68135"
+         y="723.47491">live-boot: @LIVE_BOOT_VERSION@</tspan><tspan
+         id="tspan3070"
+         style="font-style:normal;font-weight:normal;font-size:13.3333px;line-height:1.2;-inkscape-font-specification:'DejaVu Sans'"
+         sodipodi:role="line"
+         x="190.68135"
+         y="739.47485">live-config: @LIVE_CONFIG_VERSION@</tspan><tspan
+         id="tspan3012"
+         style="font-style:normal;font-weight:normal;font-size:13.3333px;line-height:1.2;-inkscape-font-specification:'DejaVu Sans'"
+         sodipodi:role="line"
+         x="190.68135"
+         y="755.47479">live-tools: @LIVE_TOOLS_VERSION@</tspan><tspan
+         style="font-style:normal;font-weight:normal;font-size:13.3333px;line-height:1.2;-inkscape-font-specification:'DejaVu Sans'"
+         sodipodi:role="line"
+         x="190.68135"
+         y="771.47479"
+         id="tspan66">Created by Joshua.</tspan><tspan
+         style="font-style:normal;font-weight:normal;font-size:13.3333px;line-height:1.2;-inkscape-font-specification:'DejaVu Sans'"
+         sodipodi:role="line"
+         x="190.68135"
+         y="787.47473"
+         id="tspan68">Powered by Debian.</tspan><tspan
+         id="tspan3066"
+         style="font-style:normal;font-weight:normal;font-size:13.3333px;line-height:1.2;-inkscape-font-specification:'DejaVu Sans'"
+         sodipodi:role="line"
+         x="190.68135"
+         y="803.47467"> </tspan></text>
+    <text
+       transform="translate(0,572.3622)"
+       id="text3114"
+       y="336.7742"
+       x="200"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         style="font-size:40px;line-height:1.25;font-family:sans-serif"
+         y="336.7742"
+         x="200"
+         id="tspan3116"
+         sodipodi:role="line"> </tspan></text>
+    <image
+       width="174.27663"
+       height="169.64981"
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeSpeed"
+       xlink:href="data:image/png;base64,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
+"
+       id="image94"
+       x="0"
+       y="572.36218" />
+  </g>
+</svg>
