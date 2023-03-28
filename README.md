@@ -11,4 +11,8 @@ Instructions to build:
 You will need a Debian GNU/Linux system, I recommend 11, the latest stable release at the time of writing.
 Install live-build with apt. (sudo apt install live-build)
 
-Clone this repository or download "source code" from a release, and run make in the repo directory.
+
+If you want a tested, release version of Livezilla, download a release.
+If you want to try the absolute latest Livezilla (untested, possibly unstable), clone this repository.
+
+make sure that you are using a Debian system (can be a real computer, or a VM) with live-build installed, then run make in the repo directory.
