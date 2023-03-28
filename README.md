@@ -16,3 +16,6 @@ If you want a tested, release version of Livezilla, download a release.
 If you want to try the absolute latest Livezilla (untested, possibly unstable), clone this repository.
 
 make sure that you are using a Debian system (can be a real computer, or a VM) with live-build installed, then run make in the repo directory.
+
+Known problems:
+wxHexEditor does not allow the user to type the letter "t" for some reason, if you have a solution to this, please tell me in the github issues. If I can't get that working, wxHexEditor will be removed after beta.
