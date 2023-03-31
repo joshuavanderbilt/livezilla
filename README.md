@@ -9,13 +9,13 @@ A list of the included packages can be found in config/package-lists/pkgs.list.c
 
 Instructions to build:
 You will need a Debian GNU/Linux system, I recommend 11, the latest stable release at the time of writing.
-Install live-build with apt. (sudo apt install live-build)
+Install live-build and build-essential with apt. (sudo apt install live-build build-essential)
 
 
 If you want a tested, release version of Livezilla, download a release.
 If you want to try the absolute latest Livezilla (untested, possibly unstable), clone this repository.
 
-make sure that you are using a Debian system (can be a real computer, or a VM) with live-build installed, then run make in the repo directory.
+make sure that you are using a Debian system (can be a real computer, or a VM) with live-build and build-essential installed, then run make in the repo directory.
 
 Known problems:
 wxHexEditor does not allow the user to type the letter "t" for some reason, if you have a solution to this, please tell me in the github issues. If I can't get that working, wxHexEditor will be removed after beta.
