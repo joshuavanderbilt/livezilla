@@ -18,4 +18,4 @@ If you want to try the absolute latest Livezilla (untested, possibly unstable), 
 make sure that you are using a Debian system (can be a real computer, or a VM) with live-build and build-essential installed, then run make in the repo directory.
 
 Known problems:
-wxHexEditor does not allow the user to type the letter "t" for some reason, if you have a solution to this, please tell me in the github issues. If I can't get that working, wxHexEditor will be removed after beta.
+wxHexEditor does not allow the user to type the letter "t" for some reason, if you have a solution to this, please tell me in the github issues. If I can't get that working, ~~wxHexEditor will be removed after beta.~~ Change of plans, wxHexEditor is here to stay, since it's still useful for some other stuff.
