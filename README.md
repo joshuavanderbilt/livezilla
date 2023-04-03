@@ -19,3 +19,6 @@ make sure that you are using a Debian system (can be a real computer, or a VM) w
 
 Known problems:
 wxHexEditor does not allow the user to type the letter "t" for some reason, if you have a solution to this, please tell me in the github issues. If I can't get that working, ~~wxHexEditor will be removed after beta.~~ Change of plans, wxHexEditor is here to stay, since it's still useful for some other stuff.
+
+Sha256sum of Livezilla R1:
+958fb9eb11c877eaa74b8477646fa23da55f2f01cc283d7efaae39d2c0a79517  livezilla-r1.iso
