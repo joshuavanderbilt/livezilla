@@ -8,7 +8,7 @@ Created using live-build.
 A list of the included packages can be found in config/package-lists/pkgs.list.chroot
 
 Instructions to build:
-You will need a Debian GNU/Linux system, I recommend 11, the latest stable release at the time of writing.
+You will need a Debian GNU/Linux system, I recommend 11, the old stable release at the time of writing.
 Install live-build and build-essential with apt. (sudo apt install live-build build-essential)
 
 
