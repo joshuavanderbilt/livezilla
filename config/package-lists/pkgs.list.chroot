@@ -2,10 +2,7 @@ task-lxde-desktop
 clonezilla
 gparted
 terminator
-qemu
-qemu-utils
-qemu-system-x86
-qemu-system-gui
+qemu-system
 remmina
 testdisk
 dosbox
