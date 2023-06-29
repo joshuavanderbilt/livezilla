@@ -8,7 +8,7 @@ Created using live-build.
 A list of the included packages can be found in config/package-lists/pkgs.list.chroot
 
 Instructions to build:
-You will need a Debian GNU/Linux system, I recommend 11, the old stable release at the time of writing.
+You will need a Debian GNU/Linux system, I recommend 12, the latest stable release at the time of writing.
 Install live-build and build-essential with apt. (sudo apt install live-build build-essential)
 
 
@@ -18,7 +18,11 @@ If you want to try the absolute latest Livezilla (untested, possibly unstable), 
 make sure that you are using a Debian system (can be a real computer, or a VM) with live-build and build-essential installed, then run make in the repo directory.
 
 Known problems:
-wxHexEditor does not allow the user to type the letter "t" for some reason, if you have a solution to this, please tell me in the github issues. If I can't get that working, ~~wxHexEditor will be removed after beta.~~ Change of plans, wxHexEditor is here to stay, since it's still useful for some other stuff.
+wxHexEditor does not allow the user to type the letter "t" for some reason.
+Livezilla R2 uses significantly more memory than Livezilla R1.
 
 Sha256sum of Livezilla R1:
 958fb9eb11c877eaa74b8477646fa23da55f2f01cc283d7efaae39d2c0a79517  livezilla-r1.iso
+
+Sha256sum of Livezilla R2:
+e1822a6c53869e6ceeeb509cbc0910ad226083750c831d7a0a8d3a1d1392b4b7 livezilla-r2.iso
